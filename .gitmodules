@@ -1,8 +1,7 @@
 [submodule "camb"]
 	path = camb
-	url = git@github.com:williamjameshandley/CAMB.git
+	url = https://github.com/williamjameshandley/CAMB
 	branch = master
 [submodule "polychord"]
 	path = polychord
-	url = git@github.com:PolyChord/PolyChordLite.git
-	branch = master
+	url = https://github.com/PolyChord/PolyChordLite
